@@ -11,7 +11,7 @@ Overview of the Hotel Revenue Management
 ![Screenshot (5)](https://user-images.githubusercontent.com/131612828/234418135-b578cf36-2ecc-498a-a571-4350e3fb8b37.png)
 
 Link to the Dashboard Hotel Revenue Management 
-[](https://app.powerbi.com/view?r=eyJrIjoiNmI1ZDljYWMtYTU3Yy00NGM5LWEyYTEtNjQyNjJiMWRmMmRkIiwidCI6ImVlZjgxMWQ2LTJlZGUtNDM1OS1hYzUyLTQ4YjdmMjdlOTQ5NiJ9)
+[Hotel Revenue Management](https://app.powerbi.com/viewr=eyJrIjoiNmI1ZDljYWMtYTU3Yy00NGM5LWEyYTEtNjQyNjJiMWRmMmRkIiwidCI6ImVlZjgxMWQ2LTJlZGUtNDM1OS1hYzUyLTQ4YjdmMjdlOTQ5NiJ9)
 
 
 #Project No 2: Sales Dashboard
@@ -24,7 +24,7 @@ Overview of the Sales Dashboard
 ![Screenshot (6)](https://user-images.githubusercontent.com/131612828/234418154-b66b7307-d831-4e77-9446-86bce63cbe9d.png)
 
 Link to the Sales Dashboard
-[](https://app.powerbi.com/view?r=eyJrIjoiODUwMGRhZTAtOGQ1OC00ZjM1LWJmZjYtZDk2Zjk3ODVlNTczIiwidCI6ImVlZjgxMWQ2LTJlZGUtNDM1OS1hYzUyLTQ4YjdmMjdlOTQ5NiJ9)
+[Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODUwMGRhZTAtOGQ1OC00ZjM1LWJmZjYtZDk2Zjk3ODVlNTczIiwidCI6ImVlZjgxMWQ2LTJlZGUtNDM1OS1hYzUyLTQ4YjdmMjdlOTQ5NiJ9)
 
 #Project 3: HR Dashboard Insight
 
@@ -36,7 +36,7 @@ Overview of the HR Dashboard
 ![Screenshot (4)](https://user-images.githubusercontent.com/131612828/234418088-83c02315-ea93-4960-914f-76b4b06a2c19.png)
 ![Screenshot (2)](https://user-images.githubusercontent.com/131612828/234418110-4b57060e-c814-4d0d-9580-88b8c4ca11a6.png)
 
-Link to the Dashboard Hotel Revenue Management 
-[](https://app.powerbi.com/view?r=eyJrIjoiZDUzY2I0MzQtMDRiMS00ZmY4LTljMDMtMjIxMjdiZDU4YzZjIiwidCI6ImVlZjgxMWQ2LTJlZGUtNDM1OS1hYzUyLTQ4YjdmMjdlOTQ5NiJ9)
+Link to the Dashboard HR Dashboard
+[HR Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDUzY2I0MzQtMDRiMS00ZmY4LTljMDMtMjIxMjdiZDU4YzZjIiwidCI6ImVlZjgxMWQ2LTJlZGUtNDM1OS1hYzUyLTQ4YjdmMjdlOTQ5NiJ9)
 
 Analytics Portfolio
