@@ -1,6 +1,6 @@
 # Aishwarya_Portfolio
 
-The project listed below is my personal project for practice.
+The project listed below are my personal project which i have done for my practice.
 
 #Project 1: Hotel Revenue Management.
 
