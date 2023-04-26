@@ -11,9 +11,7 @@ Overview of the Hotel Revenue Management
 ![Screenshot (5)](https://user-images.githubusercontent.com/131612828/234418135-b578cf36-2ecc-498a-a571-4350e3fb8b37.png)
 
 Link to the Dashboard Hotel Revenue Management 
-[Hotel Revenue Management]
-(https://app.powerbi.com/view?r=eyJrIjoiNmI1ZDljYWMtYTU3Yy00NGM5LWEyYTEtNjQyNjJiMWRmMmRkIiwidCI6ImVlZjgxMWQ2LTJlZGUtNDM1OS1hYzUyLTQ4YjdmMjdlOTQ5NiJ9)
-
+[Hotel Revenue](https://app.powerbi.com/view?r=eyJrIjoiNmI1ZDljYWMtYTU3Yy00NGM5LWEyYTEtNjQyNjJiMWRmMmRkIiwidCI6ImVlZjgxMWQ2LTJlZGUtNDM1OS1hYzUyLTQ4YjdmMjdlOTQ5NiJ9)
 
 #Project No 2: Sales Dashboard
 
